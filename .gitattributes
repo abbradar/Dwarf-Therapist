@@ -1,0 +1,6 @@
+* text=auto
+
+*.icns binary
+*.jpg binary
+*.png binary
+*.xpm binary
